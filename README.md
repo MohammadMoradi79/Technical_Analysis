@@ -1,1 +1,1 @@
-# Technical_Analysis
+# Technical_Analysis  First, The indicators have been implemented
