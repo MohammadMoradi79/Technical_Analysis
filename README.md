@@ -1,2 +1,13 @@
 # Technical_Analysis  
-First, The indicators have been implemented
+
+![alt text](https://github.com/MohammadMoradi79/Technical_Analysis/blob/main/20221021_195713.jpg)
+The bellow Andicators implemented:  
+
+Bolinger Band  
+RSI  
+Moving Average  
+MACD  
+Stochastic  
+Sharp Ratio  
+Sortino Ratio
+back_test → test the above strategies on historical data.
