@@ -1,7 +1,7 @@
 # Technical_Analysis  
 
 ![alt text](https://github.com/MohammadMoradi79/Technical_Analysis/blob/main/20221021_195713.jpg)
-The bellow Andicators implemented:  
+The bellow Indicators have been implemented:  
 
 Bolinger Band  
 RSI  
