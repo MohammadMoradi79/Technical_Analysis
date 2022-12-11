@@ -9,5 +9,5 @@ Moving Average
 MACD  
 Stochastic  
 Sharp Ratio  
-Sortino Ratio  
+Sortino Ratio    
 back_test → test the above strategies on historical data.
